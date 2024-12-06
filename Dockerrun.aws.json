@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "76869875/myserver",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 5000
+    }
+  ]
+}
